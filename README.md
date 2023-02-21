@@ -1,4 +1,9 @@
-# vue-poc
+# vue-demo
+
+## Demo
+
+![promo](https://user-images.githubusercontent.com/15862286/220271387-d5c14ac0-a0a1-405a-8205-c14a337f528d.gif)
+
 
 ## Project setup
 ```
